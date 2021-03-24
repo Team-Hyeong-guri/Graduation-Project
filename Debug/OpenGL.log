@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\kokwangyeon\source\repos\opengl\opengl\main.cpp(1114): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\kokwangyeon\source\repos\opengl\opengl\main.cpp(1119): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  OpenGL.vcxproj -> C:\Users\KoKwangYeon\source\repos\OpenGL\Debug\OpenGL.exe
